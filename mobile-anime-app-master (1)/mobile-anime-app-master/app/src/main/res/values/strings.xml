@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CataNime</string>
+    <string name="title_activity_main">Home</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+    <string name="title_activity_coming_soon">ComingSoonActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_edit">EditActivity</string>
+</resources>
